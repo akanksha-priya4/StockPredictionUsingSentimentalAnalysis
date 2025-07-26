@@ -29,6 +29,14 @@ An advanced stock analysis web application that leverages **Google Gemini AI** t
 - Python 3.8 or higher
 - Google Gemini API key (already configured in the application)
 
+## Screenshots
+
+<img width="1920" height="1407" alt="screencapture-10-2-0-2-5000-2025-07-26-22_28_31" src="https://github.com/user-attachments/assets/14869eb5-36ba-40cb-aeaa-b03574d98758" />
+
+<img width="1920" height="1407" alt="screencapture-10-2-0-2-5000-2025-07-26-22_29_01" src="https://github.com/user-attachments/assets/dcbefac9-04f5-44eb-ba30-aea4c9f12a6b" />
+
+
+
 ### Installation
 
 1. **Clone or Download** the repository
@@ -126,7 +134,7 @@ Comprehensive text analysis including:
 
 The application uses your provided Gemini API key:
 ```python
-GEMINI_API_KEY = "AIzaSyDwerbrg7P74EQDw3jgg6bfECNEEkbup0M"
+GEMINI_API_KEY = "**...**"
 ```
 
 ### Gemini AI Capabilities
@@ -266,6 +274,3 @@ For issues or questions:
 3. Ensure all dependencies are properly installed
 4. Verify the Gemini API key is working
 
----
-
-**🚀 Ready to explore AI-powered stock analysis? Start the application and discover comprehensive financial insights powered by Google Gemini AI!** 
